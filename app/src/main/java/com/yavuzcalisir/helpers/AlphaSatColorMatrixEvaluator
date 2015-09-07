@@ -1,4 +1,4 @@
-package com.mobilion.nestlerc.util;
+package com.yavuzcalisir.helpers;
 
 import android.animation.ObjectAnimator;
 import android.animation.TypeEvaluator;
