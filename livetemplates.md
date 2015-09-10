@@ -1,4 +1,4 @@
-Live templates let you insert frequently-used or custom code constructs into your source code file quickly, efficiently, and accurately. They contain predefined code fragments. For use that, open "Settings" from File menu on Andorid Studio than type "live template" into search bar. Set the values like i mention below.
+Live templates let you insert frequently-used or custom code constructs into your source code file quickly, efficiently, and accurately. They contain predefined code fragments. For use that, open "Settings" from File menu on Andorid Studio than type "live template" into search bar. Set the values like i mentioned below.
 
 fast code for everyone. Cheers!
 
